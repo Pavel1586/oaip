@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0411\u0433\u0442\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0418\u041F\\\u041B\u0420 2-4\\dop3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC863B6-AA4C-4E67-822E-F965EF6EEC86}|dop3\\dop3.vcxproj|D:\\\u0411\u0433\u0442\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0418\u041F\\\u041B\u0420 2-4\\dop3\\dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AC863B6-AA4C-4E67-822E-F965EF6EEC86}|dop3\\dop3.vcxproj|solutionrelative:dop3\\dop3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dop3.cpp",
+              "DocumentMoniker": "D:\\\u0411\u0433\u0442\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0418\u041F\\\u041B\u0420 2-4\\dop3\\dop3\\dop3.cpp",
+              "RelativeDocumentMoniker": "dop3\\dop3.cpp",
+              "ToolTip": "D:\\\u0411\u0433\u0442\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0410\u0418\u041F\\\u041B\u0420 2-4\\dop3\\dop3\\dop3.cpp",
+              "RelativeToolTip": "dop3\\dop3.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T21:32:59.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

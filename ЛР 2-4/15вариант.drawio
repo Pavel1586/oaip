@@ -1,0 +1,382 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Страница — 1" id="Y_01PCCvmb3g2sZKeFuQ">
+    <mxGraphModel dx="1593" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RRv0miLT31uZeti_J1SA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-1" target="RRv0miLT31uZeti_J1SA-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="305" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-2" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-5" target="s9oCI4LYwL_Z6NtFFlHH-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-5" value="Создание указателя &lt;code data-end=&quot;358&quot; data-start=&quot;349&quot;&gt;records&lt;/code&gt; и присвоение ему &lt;code data-end=&quot;385&quot; data-start=&quot;376&quot;&gt;nullptr&lt;/code&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="330" width="190" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-7" target="s9oCI4LYwL_Z6NtFFlHH-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-7" value="true" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-9" target="s9oCI4LYwL_Z6NtFFlHH-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-9" value="Вызова функции &lt;code data-end=&quot;350&quot; data-start=&quot;344&quot;&gt;menu&lt;/code&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="460" width="190" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-11" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-18" target="s9oCI4LYwL_Z6NtFFlHH-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-18" value="Объявляем целочисленную переменную size и инициализируем нулем" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="250" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-22" target="s9oCI4LYwL_Z6NtFFlHH-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-22" value="Объявление переменной&amp;nbsp;choice" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="510" width="190" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-24" target="s9oCI4LYwL_Z6NtFFlHH-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-24" value="Вывод меню в консоль:&amp;nbsp;&lt;div&gt;1)Добавить преподавателя&lt;div&gt;2)Показать всех преподавателей&lt;/div&gt;&lt;div&gt;3)Поиск по фамилии&lt;/div&gt;&lt;div&gt;4)Сохранить в файл&lt;/div&gt;&lt;div&gt;5)Загрузить из файла&lt;/div&gt;&lt;div&gt;Выберите один из вариантов...&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="570" width="230" height="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-26" target="s9oCI4LYwL_Z6NtFFlHH-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-26" value="Ввод номера пункта меню" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="710" width="230" height="29.99" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-28" target="s9oCI4LYwL_Z6NtFFlHH-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-28" target="RRv0miLT31uZeti_J1SA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-28" value="choice==1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="760" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-30" target="s9oCI4LYwL_Z6NtFFlHH-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-30" value="Вызов функции&amp;nbsp;addTeacher" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="820" width="230" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-32" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-33" target="s9oCI4LYwL_Z6NtFFlHH-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-33" value="объявление указателя &lt;code data-end=&quot;149&quot; data-start=&quot;143&quot;&gt;temp&lt;/code&gt; типа &lt;code data-end=&quot;166&quot; data-start=&quot;155&quot;&gt;teachers*&lt;/code&gt;, который будет указывать на массив объектов типа &lt;code data-end=&quot;226&quot; data-start=&quot;216&quot;&gt;teachers&lt;/code&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="870" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-37" target="s9oCI4LYwL_Z6NtFFlHH-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-37" value="Объявление целочисленной переменной i и инициализация ее нулем" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="960" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-39" target="s9oCI4LYwL_Z6NtFFlHH-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-39" target="s9oCI4LYwL_Z6NtFFlHH-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1060" />
+              <mxPoint x="560" y="1240" />
+              <mxPoint x="405" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-39" value="i&amp;lt;size" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1040" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RRv0miLT31uZeti_J1SA-14" target="s9oCI4LYwL_Z6NtFFlHH-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="1230" />
+              <mxPoint x="250" y="1230" />
+              <mxPoint x="250" y="1020" />
+              <mxPoint x="405" y="1020" />
+            </Array>
+            <mxPoint x="400" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-41" target="RRv0miLT31uZeti_J1SA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-41" value="Копирование данных из массива &lt;code data-end=&quot;113&quot; data-start=&quot;104&quot;&gt;records&lt;/code&gt; в массив &lt;code data-end=&quot;129&quot; data-start=&quot;123&quot;&gt;temp&lt;/code&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1110" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-43" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9oCI4LYwL_Z6NtFFlHH-47" target="RRv0miLT31uZeti_J1SA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-47" value="Вывод в консоль&amp;nbsp;&quot;Введите фамилию преподователя: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1260" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s9oCI4LYwL_Z6NtFFlHH-49" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-1" target="RRv0miLT31uZeti_J1SA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-1" value="Ввод фамилии преподователя в массив temp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-3" target="RRv0miLT31uZeti_J1SA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-3" value="Вывод в консоль&amp;nbsp;&quot;Введите название экзамена: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1380" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-5" target="RRv0miLT31uZeti_J1SA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-5" value="Ввод названия предмета в массив temp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1450" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-7" target="RRv0miLT31uZeti_J1SA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-7" value="Вывод в консоль&amp;nbsp;&quot;Введите дату экзамена: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1500" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-9" target="RRv0miLT31uZeti_J1SA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-9" value="Ввод даты проведения экзамена в массив&amp;nbsp; temp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1570" width="230" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-11" target="RRv0miLT31uZeti_J1SA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-11" value="&amp;nbsp;старый массив удаляется, а новый присваивается переменной &lt;code data-end=&quot;2036&quot; data-start=&quot;2027&quot;&gt;records&lt;/code&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1640" width="230" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-14" value="i++" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1170" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-15" target="s9oCI4LYwL_Z6NtFFlHH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="1756" />
+              <mxPoint x="210" y="1756" />
+              <mxPoint x="210" y="390" />
+              <mxPoint x="405" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-15" value="size++" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1700" width="230" height="35.62" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-19" target="RRv0miLT31uZeti_J1SA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-19" target="RRv0miLT31uZeti_J1SA-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-19" value="choice==2" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="670" y="810" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-21" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="739.99" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-22" target="RRv0miLT31uZeti_J1SA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-22" value="Вызов функции&amp;nbsp;list_of_teachers" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="870" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-26" target="RRv0miLT31uZeti_J1SA-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-26" value="Объявление целочисленной переменной i и инициализация ее нулем" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="930" width="250" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-28" target="RRv0miLT31uZeti_J1SA-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-28" target="RRv0miLT31uZeti_J1SA-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="1030" />
+              <mxPoint x="940" y="1220" />
+              <mxPoint x="785" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-28" value="i&amp;lt;size" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1010" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-32" target="RRv0miLT31uZeti_J1SA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-32" value="Вывод в консоль&amp;nbsp;&quot;Преподаватель: &quot; фамилии всех преподователей которых мы записали" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1080" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-34" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1045" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-35" target="RRv0miLT31uZeti_J1SA-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1205" />
+              <mxPoint x="640" y="1205" />
+              <mxPoint x="640" y="990" />
+              <mxPoint x="785" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-35" value="i++" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1160" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-38" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-41" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-43" target="s9oCI4LYwL_Z6NtFFlHH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="320" />
+              <mxPoint x="210" y="390" />
+              <mxPoint x="405" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-43" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-45" target="RRv0miLT31uZeti_J1SA-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-45" value="choice==3" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="845" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-48" target="RRv0miLT31uZeti_J1SA-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-48" value="Вызов функции&amp;nbsp;Last_Name_Search" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1090" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-50" target="RRv0miLT31uZeti_J1SA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-50" value="Объявление целочисленной переменной i и инициализация ее нулем" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1220" width="250" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-53" target="RRv0miLT31uZeti_J1SA-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1525" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-53" target="RRv0miLT31uZeti_J1SA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-53" value="i&amp;lt;size" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1300" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-56" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-59" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-60" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-62" target="RRv0miLT31uZeti_J1SA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-62" value="Объявляем структуру&amp;nbsp;teachers" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-64" target="s9oCI4LYwL_Z6NtFFlHH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-64" value="Внутри структуры обявляем массивы: teacher_last_name[30],&amp;nbsp;&lt;div&gt;name_of_the_exam[30],&amp;nbsp;&lt;/div&gt;&lt;div&gt;choosing_by_last_name[30] и целочисленную переменную для хранения даты&amp;nbsp;exam_date&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-67" target="RRv0miLT31uZeti_J1SA-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-67" value="Объявляем массив&amp;nbsp;search_name[30] для поиска преподователя по фамилии" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="900" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-69" target="RRv0miLT31uZeti_J1SA-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-69" value="Вывод в консоль&amp;nbsp;&quot;Введите фамилию преподавателя для поиска: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="970" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-71" target="RRv0miLT31uZeti_J1SA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-71" value="Ввод фамилии преподавателя" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1040" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-74" target="RRv0miLT31uZeti_J1SA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-74" value="Объявляем булевую переменную found и инициализируем ее значением false" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1148.75" width="250" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-77" target="RRv0miLT31uZeti_J1SA-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-77" value="Фамилия совпадает?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1370" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-79" target="RRv0miLT31uZeti_J1SA-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-79" value="Вывести в консоль&amp;nbsp;&quot;Преподаватель найден!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1445" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-81" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-82" target="RRv0miLT31uZeti_J1SA-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-82" value="Вывести&amp;nbsp;&quot;Преподаватель: &quot; значение&amp;nbsp;records[i].teacher_last_name" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1510" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-84" target="RRv0miLT31uZeti_J1SA-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-84" value="Вывести&amp;nbsp;&quot;Название экзамена: &quot; значение&amp;nbsp;records[i].name_of_the_exam" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1572.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRv0miLT31uZeti_J1SA-86" target="RRv0miLT31uZeti_J1SA-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-86" value="Вывести&amp;nbsp;&quot;Дата экзамена: &quot; значение&amp;nbsp;records[i].exam_date" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1636.25" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRv0miLT31uZeti_J1SA-88" value="found == true" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1700" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Страница — 1" id="aMuLoVrPridFGZXCVOP9">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7LCyyFza7Fh3XoELXT-1" target="YL7LCyyFza7Fh3XoELXT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-2" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="697" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7LCyyFza7Fh3XoELXT-3" target="YL7LCyyFza7Fh3XoELXT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-3" value="Объявляем строковую переменную input&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YL7LCyyFza7Fh3XoELXT-5" target="YL7LCyyFza7Fh3XoELXT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-5" value="Вывод в консоль&amp;nbsp;&quot;Enter the line: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7LCyyFza7Fh3XoELXT-7" value="Чтение строки и сохранение её в переменную &lt;code data-end=&quot;133&quot; data-start=&quot;126&quot;&gt;input&lt;/code&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="210" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
